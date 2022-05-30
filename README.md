@@ -3,7 +3,7 @@
 - 👀 I’m interested in DevOps 
 - 🌱 I’m currently learning lots  of DevOps related inclusing Go.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me elgammalqa@gmail.com
+- 📫 How to reach me by Email: elgammalqa@gmail.com Linkedin: https://www.linkedin.com/in/amirelgammal/ 
 
 <!---
 elgammalqa/elgammalqa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
